@@ -18,7 +18,7 @@ https://img.shields.io/codecov/c/github/ESIPFed/Geoweaver?style=for-the-badge
 ![PyPi](https://img.shields.io/pypi/v/pyGeoweaver?style=for-the-badge) 
 ![Minimum Java Version](https://img.shields.io/badge/Java-11%2B-%23ed8b02?style=for-the-badge&logo=openjdk
 )
-![Geoweaver Docs](https://img.shields.io/badge/Docs-Geoweaver-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2FGeoweaver.dev%2F
+![Geoweaver Docs](https://img.shields.io/badge/Docs-Geoweaver-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2FZentelAI.dev%2F
 )
 
 ![sdasdasdasdasd](https://github.com/user-attachments/assets/d02b6e6f-56fb-424c-b3e3-90650a487cef)
