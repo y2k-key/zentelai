@@ -1,24 +1,24 @@
 ![example workflow](
-https://img.shields.io/github/actions/workflow/status/ESIPFed/ZentelAI/release_workflow.yml?branch=v1.5.2-pre&style=for-the-badge
+https://img.shields.io/github/actions/workflow/status/ESIPFed/Geoweaver/release_workflow.yml?branch=v1.5.2-pre&style=for-the-badge
 )
 [![License](
-https://img.shields.io/github/license/ESIPFed/ZentelAI?style=for-the-badge
-)](https://github.com/ESIPFed/ZentelAI/blob/main/LICENSE)
+https://img.shields.io/github/license/ESIPFed/Geoweaver?style=for-the-badge
+)](https://github.com/ESIPFed/Geoweaver/blob/main/LICENSE)
 [![Stars](
-https://img.shields.io/github/stars/ESIPFed%2FZentelAI?style=for-the-badge
-)](https://github.com/ESIPFed/ZentelAI/stargazers) 
+https://img.shields.io/github/stars/ESIPFed%2FGeoweaver?style=for-the-badge
+)](https://github.com/ESIPFed/Geoweaver/stargazers) 
 [![Forks](
-https://img.shields.io/github/forks/ESIPFed/ZentelAI?style=for-the-badge&color=%23f2b40a
-)](https://github.com/ESIPFed/ZentelAI/network/members)
+https://img.shields.io/github/forks/ESIPFed/Geoweaver?style=for-the-badge&color=%23f2b40a
+)](https://github.com/ESIPFed/Geoweaver/network/members)
 [![Issues](
-https://img.shields.io/github/issues/ESIPFed/ZentelAI?style=for-the-badge&color=%2363c1ff
-)](https://github.com/ESIPFed/ZentelAI/issues) [![Coverage](
-https://img.shields.io/codecov/c/github/ESIPFed/ZentelAI?style=for-the-badge
+https://img.shields.io/github/issues/ESIPFed/Geoweaver?style=for-the-badge&color=%2363c1ff
+)](https://github.com/ESIPFed/Geoweaver/issues) [![Coverage](
+https://img.shields.io/codecov/c/github/ESIPFed/Geoweaver?style=for-the-badge
 )](https://codecov.io/)
-![PyPi](https://img.shields.io/pypi/v/pyZentelAI?style=for-the-badge) 
+![PyPi](https://img.shields.io/pypi/v/pyGeoweaver?style=for-the-badge) 
 ![Minimum Java Version](https://img.shields.io/badge/Java-11%2B-%23ed8b02?style=for-the-badge&logo=openjdk
 )
-![ZentelAI Docs](https://img.shields.io/badge/Docs-ZentelAI-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2FZentelAI.dev%2F
+![Geoweaver Docs](https://img.shields.io/badge/Docs-Geoweaver-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2FGeoweaver.dev%2F
 )
 
 ![sdasdasdasdasd](https://github.com/user-attachments/assets/d02b6e6f-56fb-424c-b3e3-90650a487cef)
