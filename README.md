@@ -1,48 +1,45 @@
 ![example workflow](
-https://img.shields.io/github/actions/workflow/status/ESIPFed/Geoweaver/release_workflow.yml?branch=v1.5.2-pre&style=for-the-badge
+https://img.shields.io/github/actions/workflow/status/ESIPFed/ZentelAI/release_workflow.yml?branch=v1.5.2-pre&style=for-the-badge
 )
 [![License](
-https://img.shields.io/github/license/ESIPFed/Geoweaver?style=for-the-badge
-)](https://github.com/ESIPFed/Geoweaver/blob/main/LICENSE)
+https://img.shields.io/github/license/ESIPFed/ZentelAI?style=for-the-badge
+)](https://github.com/ESIPFed/ZentelAI/blob/main/LICENSE)
 [![Stars](
-https://img.shields.io/github/stars/ESIPFed%2FGeoweaver?style=for-the-badge
-)](https://github.com/ESIPFed/Geoweaver/stargazers) 
+https://img.shields.io/github/stars/ESIPFed%2FZentelAI?style=for-the-badge
+)](https://github.com/ESIPFed/ZentelAI/stargazers) 
 [![Forks](
-https://img.shields.io/github/forks/ESIPFed/Geoweaver?style=for-the-badge&color=%23f2b40a
-)](https://github.com/ESIPFed/Geoweaver/network/members)
+https://img.shields.io/github/forks/ESIPFed/ZentelAI?style=for-the-badge&color=%23f2b40a
+)](https://github.com/ESIPFed/ZentelAI/network/members)
 [![Issues](
-https://img.shields.io/github/issues/ESIPFed/Geoweaver?style=for-the-badge&color=%2363c1ff
-)](https://github.com/ESIPFed/Geoweaver/issues) [![Coverage](
-https://img.shields.io/codecov/c/github/ESIPFed/Geoweaver?style=for-the-badge
+https://img.shields.io/github/issues/ESIPFed/ZentelAI?style=for-the-badge&color=%2363c1ff
+)](https://github.com/ESIPFed/ZentelAI/issues) [![Coverage](
+https://img.shields.io/codecov/c/github/ESIPFed/ZentelAI?style=for-the-badge
 )](https://codecov.io/)
-![PyPi](https://img.shields.io/pypi/v/pygeoweaver?style=for-the-badge) 
+![PyPi](https://img.shields.io/pypi/v/pyZentelAI?style=for-the-badge) 
 ![Minimum Java Version](https://img.shields.io/badge/Java-11%2B-%23ed8b02?style=for-the-badge&logo=openjdk
 )
-![Geoweaver Docs](https://img.shields.io/badge/Docs-Geoweaver-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2Fgeoweaver.dev%2F
+![ZentelAI Docs](https://img.shields.io/badge/Docs-ZentelAI-%23c4ff7d?style=for-the-badge&logo=readthedocs&link=https%3A%2F%2FZentelAI.dev%2F
 )
 
-![logo](src/main/resources/static/img/geoweaver-new-banner.png)
-
-
-### GitHub Repo: https://github.com/ESIPFed/Geoweaver 
-### Pygeoweaver (Python Bindings): https://github.com/ESIPFed/pygeoweaver
-### Live Demo: https://geobrain.csiss.gmu.edu/Geoweaver
+![sdasdasdasdasd](https://github.com/user-attachments/assets/d02b6e6f-56fb-424c-b3e3-90650a487cef)
 
 
 
-Geoweaver is an in-browser software allowing users to easily compose and execute full-stack data processing workflows via taking advantage of online spatial data facilities, high-performance computation platforms, and open-source deep learning libraries. It provides all-in-one capacity covering server management, code repository, workflow orchestration software, and history recorder. 
+
+
+ZentelAI is an in-browser software allowing users to easily compose and execute full-stack data processing workflows via taking advantage of online spatial data facilities, high-performance computation platforms, and open-source deep learning libraries. It provides all-in-one capacity covering server management, code repository, workflow orchestration software, and history recorder. 
 
 It can be run from both local and remote (distributed) machines.
 
-# Why choose Geoweaver?
+# Why choose ZentelAI?
 
 1) Safely Store all your progress along the way.
 2) Stay organised and productive through out your years-long research
 4) Seamlessly connect to external servers with SSH.
 5) In-Built Web UI with full support for Python.
 
-For further insights into Geoweaver, please explore the website at https://geoweaver.dev.
-GeoWeaver is a community effort. Any contribution is welcome and greatly appreciated! 
+For further insights into ZentelAI, please explore the website at https://ZentelAI.dev.
+ZentelAI is a community effort. Any contribution is welcome and greatly appreciated! 
 
 # Features
 
@@ -62,19 +59,19 @@ GeoWeaver is a community effort. Any contribution is welcome and greatly appreci
 
 5) **Workflow Management**:
   - Link processes to create workflows for parallel or sequential execution across different resources.
-  - All aspects of workflow management are centralized within GeoWeaver.
+  - All aspects of workflow management are centralized within ZentelAI.
 
 6) **Boosts Data Pipeline's Tangibility**:
-  - Geoweaver provides an intuitive, interactive interface for visualizing data workflows, making it easier for users to understand and manage complex data pipelines.
+  - ZentelAI provides an intuitive, interactive interface for visualizing data workflows, making it easier for users to understand and manage complex data pipelines.
   - This clear visualization helps users to see the connections and dependencies between different components of their workflows.
 
 7) **Enhances Research Productivity and Reduces Work Anxiety**:
-  - Geoweaver has automated scheduling and execution of tasks, researchers can set up their workflows to run at specified times or conditions without manual intervention. 
+  - ZentelAI has automated scheduling and execution of tasks, researchers can set up their workflows to run at specified times or conditions without manual intervention. 
   - This automation reduces the burden of monitoring and manual execution, allowing researchers to focus on analysis and innovation. 
 
-# [Geoweaver Installation Guide](docs/install.md)
+# [ZentelAI Installation Guide](docs/install.md)
 
-Geoweaver is a powerful tool for geospatial data processing, offering a range of features and capabilities. This guide will walk you through the steps to install Geoweaver on your system.
+ZentelAI is a powerful tool for geospatial data processing, offering a range of features and capabilities. This guide will walk you through the steps to install ZentelAI on your system.
 
 ## Prerequisites
 
@@ -85,31 +82,31 @@ Before you begin, ensure that you have the following dependencies installed:
 
 # Demo
 
-[A live demo site](https://geobrain.csiss.gmu.edu/Geoweaver) is available.
+[A live demo site](https://geobrain.csiss.gmu.edu/ZentelAI) is available.
 
 # Documentation
 
-Learn more about Geoweaver in its official documentation at https://esipfed.github.io/Geoweaver/docs/install.html
+Learn more about ZentelAI in its official documentation at https://esipfed.github.io/ZentelAI/docs/install.html
 
 # Creating a New Release
 
-For detailed steps on how to create a new release in Geoweaver, please refer to the [release instructions](docs/release_upgrade.md).
+For detailed steps on how to create a new release in ZentelAI, please refer to the [release instructions](docs/release_upgrade.md).
 
 
-# [PyGeoWeaver](https://github.com/ESIPFed/pygeoweaver)
+# [PyZentelAI](https://github.com/ESIPFed/pyZentelAI)
 
-PyGeoWeaver is a Python package that provides a convenient and user-friendly interface to interact with GeoWeaver, a powerful geospatial data processing application written in Java. With PyGeoWeaver, Jupyter notebook and JupyterLab users can seamlessly integrate and utilize the capabilities of GeoWeaver within their Python workflows.
+PyZentelAI is a Python package that provides a convenient and user-friendly interface to interact with ZentelAI, a powerful geospatial data processing application written in Java. With PyZentelAI, Jupyter notebook and JupyterLab users can seamlessly integrate and utilize the capabilities of ZentelAI within their Python workflows.
 
-Please do visit the PyGeoWeaver GitHub repository.
+Please do visit the PyZentelAI GitHub repository.
 
 ## Contributors
 
 Thanks to our many contributors!
 
-[![Contributors](https://contrib.rocks/image?repo=ESIPFed/Geoweaver)](https://github.com/ESIPFed/Geoweaver/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=ESIPFed/ZentelAI)](https://github.com/ESIPFed/ZentelAI/graphs/contributors)
 
 
-# Geoweaver History
+# ZentelAI History
 
 ## v0.6.7 - v1.0.0 (2018 - 2023)
 
@@ -127,15 +124,15 @@ Key features included:
 
 ## v1.0.1 - v1.2.8 (2023 - 2024)
 
-After incorporating feedback from the user community, the Geoweaver team released new versions. This major update focused on performance improvements and added several highly requested features:
+After incorporating feedback from the user community, the ZentelAI team released new versions. This major update focused on performance improvements and added several highly requested features:
 
 * Log output is real time and web socket channels are untangled.
 * Made the local logging real time.
-* Created a macOS App for Geoweaver.
+* Created a macOS App for ZentelAI.
 * Ability to Restore workflow.
 * Run maven tests on github actions.
 
-These versions solidified Geoweaver's position as a powerful open-source GIS solution and attracted interest from various industries and research institutions.
+These versions solidified ZentelAI's position as a powerful open-source GIS solution and attracted interest from various industries and research institutions.
 
 ## v1.3.0 - v1.6.1 (2024)
 
@@ -149,25 +146,25 @@ This version focuses on updating features and bug fixing:
 * Responsive Design for lower resultion devices such as ipad / tablets.
 * Support for MySQL and PostgreSQL - Production grade DB.
 * Autosaves code on Run.
-* Added support for Docker. The Geoweaver Docker image can be found here(https://hub.docker.com/repository/docker/geoweaver/geoweaver/general).
+* Added support for Docker. The ZentelAI Docker image can be found here(https://hub.docker.com/repository/docker/ZentelAI/ZentelAI/general).
 
-For more details, you can check the Geoweaver Releases Page.
+For more details, you can check the ZentelAI Releases Page.
 
 
 # Citation
 
-If you found Geoweaver helpful in your research, please cite: 
+If you found ZentelAI helpful in your research, please cite: 
 
-Sun, Z. et al., "Geoweaver: Advanced cyberinfrastructure for managing hybrid geoscientific AI workflows." ISPRS International Journal of Geo-Information 9, no. 2 (2020): 119.
+Sun, Z. et al., "ZentelAI: Advanced cyberinfrastructure for managing hybrid geoscientific AI workflows." ISPRS International Journal of Geo-Information 9, no. 2 (2020): 119.
 
 
 # Existing Projects
 
-Sun, Ziheng, Nicoleta C. Cristea, Kehan Yang, Ahmed Alnuaim, Lakshmi Chetana Gomaram Bikshapathireddy, Aji John, Justin Pflug et al. "Making machine learning-based snow water equivalent forecasting research productive and reusable by Geoweaver." In AGU fall meeting abstracts, vol. 2022, pp. IN23A-04. 2022.
+Sun, Ziheng, Nicoleta C. Cristea, Kehan Yang, Ahmed Alnuaim, Lakshmi Chetana Gomaram Bikshapathireddy, Aji John, Justin Pflug et al. "Making machine learning-based snow water equivalent forecasting research productive and reusable by ZentelAI." In AGU fall meeting abstracts, vol. 2022, pp. IN23A-04. 2022.
 
-Sun, Ziheng, and Nicoleta Cristea. "Geoweaver for Automating ML-based High Resolution Snow Mapping Workflow." In AGU Fall Meeting Abstracts, vol. 2021, pp. IN11C-07. 2021.
+Sun, Ziheng, and Nicoleta Cristea. "ZentelAI for Automating ML-based High Resolution Snow Mapping Workflow." In AGU Fall Meeting Abstracts, vol. 2021, pp. IN11C-07. 2021.
 
-Sun, Ziheng, Liping Di, Jason Tullis, Annie Bryant Burgess, and Andrew Magill. "Geoweaver: Connecting Dots for Artificial Intelligence in Geoscience." In AGU Fall Meeting Abstracts, vol. 2020, pp. IN011-02. 2020.
+Sun, Ziheng, Liping Di, Jason Tullis, Annie Bryant Burgess, and Andrew Magill. "ZentelAI: Connecting Dots for Artificial Intelligence in Geoscience." In AGU Fall Meeting Abstracts, vol. 2020, pp. IN011-02. 2020.
 
-Sun, Ziheng, Liping Di, Annie Burgess, Jason A. Tullis, and Andrew B. Magill. "Geoweaver: Advanced cyberinfrastructure for managing hybrid geoscientific AI workflows." ISPRS International Journal of Geo-Information 9, no. 2 (2020): 119.
+Sun, Ziheng, Liping Di, Annie Burgess, Jason A. Tullis, and Andrew B. Magill. "ZentelAI: Advanced cyberinfrastructure for managing hybrid geoscientific AI workflows." ISPRS International Journal of Geo-Information 9, no. 2 (2020): 119.
 
